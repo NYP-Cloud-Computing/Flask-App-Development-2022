@@ -1,3 +1,0 @@
-# Dependencies
-flask
-flask_wtf
